@@ -42,32 +42,32 @@ function App(): JSX.Element {
     {
       name: "Tolulope Adejumo",
       title: "Digital Content Creator, Entrepreneur & Philanthropist",
-      image: "/images/Tolulolpe Adejumo.jpg"
+      image: "./images/Tolulolpe Adejumo.jpg"
     },
     {
       name: "Damilola Oloruntoba",
       title: "Technology Consultant",
-      image: "/images/Damilola Oloruntoba.jpg"
+      image: "./images/Damilola Oloruntoba.jpg"
     },
     {
       name: "Tomilola Majekodunmi",
       title: "CEO- Bankly",
-      image: "/images/Tomilola Majekodunmi.jpg"
+      image: "./images/Tomilola Majekodunmi.jpg"
     },
     {
       name: "Oyewunmi Fasoro",
       title: "Founder, DivineSistersMinistry",
-      image: "/images/Oyewunmi Fasoro.jpg"
+      image: "./images/Oyewunmi Fasoro.jpg"
     },
     {
       name: "Chimamaka Ige",
       title: "Business Strategist/Author",
-      image: "/images/Chimamaka Ige.jpg"
+      image: "./images/Chimamaka Ige.jpg"
     },
     {
       name: "Adebisi Olaniyi",
       title: "Founder, iTeach Network",
-      image: "/images/Adebisi Olaniyi.jpg"
+      image: "./images/Adebisi Olaniyi.jpg"
     }
   ];
 
